@@ -1,4 +1,4 @@
-Amazon Clone
+# Amazon Clone
 📌 Project Overview
 
 This is a mini Amazon Clone project developed using HTML5 and CSS3. The project recreates the front-end design of the Amazon homepage, focusing on layout design, responsive structure, and user interface development. It was built to strengthen web development fundamentals and improve skills in HTML and CSS.
